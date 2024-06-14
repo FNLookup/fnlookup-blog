@@ -1,5 +1,7 @@
 # Welcome FNLookup 3!
 
+## Written by: tposejank
+
 The newly redesigned FNLookup 3 is available now.
 
 Let's start off by saying that FNLookup needs to be hyped up!
