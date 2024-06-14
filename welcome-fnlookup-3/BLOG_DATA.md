@@ -82,7 +82,15 @@ The **Back** arrow can be used to return to the previous page.
 
 The **Broadcast** feature is the next button.
 
-The **Notifications** will appear at the bottom, where you will soon be able to view notifications.
+The **Festival Hub** will appear at the bottom, where you are able to view FNLookup's newest feature: **The Festival Hub**!
+
+### Festival Hub
+
+![fhub](fhub.png)
+
+Festival Hub is a place where you can view Jam Tracks, leaderboards and more!
+
+Check it out! [Here](https://fnlookup.github.io/festival/)
 
 ### Item Shop Redesign
 
