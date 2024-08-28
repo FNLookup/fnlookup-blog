@@ -6,8 +6,6 @@ The newly redesigned FNLookup 3 is available now.
 
 ## Let's start off by saying that FNLookup needs to be hyped up! **Share it!**
 
-## Also, join our [Discord](https://discord.gg/swCamGW2eN)!
-
 Back to discussion...
 
 ## New features
